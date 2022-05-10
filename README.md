@@ -1,2 +1,2 @@
 # WoodWorking
-Html/CSS/JavaScript
+HTML/CSS
